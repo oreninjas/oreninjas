@@ -1,7 +1,3 @@
-<h2 align="center">Hello world, i'm Faiyan</h2>
-<h3 align="center">A full-stack developer!</h3>
+<p align="center">Faiyan is a full-stack dev. Languages he uses and loves:</p>
 
-
-<h3 align="center">Languages i love && use:</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oreninjas&show_icons=true&locale=en&layout=compact" alt="oreninjas" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oreninjas&show_icons=true&locale=en" alt="oreninjas" /></p>
